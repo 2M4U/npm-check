@@ -1,0 +1,36 @@
+{
+  "name": "npmupdatecheck",
+  "version": "0.0.3",
+  "description": "Perfect little package for any developers that wish to have their end-users kept up-to-date with new releases.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "2M4U",
+  "license": "SEE LICENSE IN REPOSITORY",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "pretty-ms": "^7.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2M4U/npm-check.git"
+  },
+  "keywords": [
+    "github",
+    "update",
+    "checker",
+    "npm-check",
+    "new",
+    "releases",
+    "releases"
+  ],
+  "bugs": {
+    "url": "https://github.com/2M4U/npm-check/issues"
+  },
+  "homepage": "https://github.com/2M4U/npm-check#readme",
+  "devDependencies": {}
+}
